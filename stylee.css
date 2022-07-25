@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+#paragraf3{
+    background-color: blueviolet;
+}
+#paragraf2{
+    background-color: aquamarine;
+    width: 30%;
+    margin: auto;
+    border: 3px solid cornflowerblue;
+    text-align: center;
+}
+#paragraf1{
+    background-color: chartreuse;
+}
+
+.ortak{
+    background-color: cornflowerblue;
+}
+#id3{
+    background-color: darkcyan;
+   
+    padding: 20px;
+    margin: 50px;
+    /* 2 adet yazarsan px yukarı,aşağı-sağ,sol olarak alır. 4 adet yukarıdan başlar saat yönünde ilerler. 3 adet yukarı-sağ,sol,alt */
+    border-style: double;
+    border-width: 5px;
+    border-color: aquamarine;
+    border-radius: 20px;
+    text-align: center;
+}
+.container{
+    border: 2px solid red;
+    padding: 20px;
+}
+#last{
+    background-color: orange;
+    padding: inherit;
+}
